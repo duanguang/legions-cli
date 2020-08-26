@@ -1,6 +1,6 @@
 {
   "name": "legions-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The is a Boilerplate Init Tool",
   "author": {
     "name": "duanguang",
@@ -20,7 +20,7 @@
     "chalk": "^2.0.1",
     "commander": "^2.11.0",
     "shelljs": "^0.7.8",
-    "inquirer": "^3.2.1",
+    "inquirer": "^7.0.1",
     "mz-modules": "^1.0.0",
     "node-glob": "^1.2.0",
     "node-tool-utils": "^1.0.0",
